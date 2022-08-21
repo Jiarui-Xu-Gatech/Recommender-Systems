@@ -24,7 +24,7 @@ The second recommendation algorithm is called matrix factorization. Specifically
 
 # Deep learning-based Recommendation
 
-![image]()
+![image](https://github.com/Jiarui-Xu-Gatech/Recommender-Systems/blob/main/NN.png)
 
 As shown in the above figure, the MLP model consists of embedding layer, hidden layer (or neural CF layers in the figure), and output layer.
 
